@@ -1,0 +1,13 @@
+Web Scrapping - Price alert
+Hello Connections,
+
+Today I m posting a very old written script for web scrapping a price alert for a set value. 
+You could use the same script for a price below your benchmark. With a few lines of code changes, 
+it could work for any e comm portal. I did this to set a price alert on my own companies product. 
+The URL I have not changed rather you just have to update your email ids i.e from email and to email. 
+You could do a price alert for multiple items just conditional statements need to be updated.
+
+Note: In the code line 32, server. 
+login make sure you enter an app password created using app password option of your email account. 
+Like I used Gmail, so i  enabled 2 step verification first & 
+then I went to "https://myaccount.google.com/security" and generated my app password for my environment i.e MAC and email.
